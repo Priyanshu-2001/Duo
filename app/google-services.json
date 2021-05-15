@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009328860236",
+    "project_id": "duo-chat-c075d",
+    "storage_bucket": "duo-chat-c075d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009328860236:android:e9212b710bd21cbeed98e9",
+        "android_client_info": {
+          "package_name": "com.geekyelement.duo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009328860236-e0d7ts296oh66h6st0jbh0no7fm5lnbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFVUAS9gvkLt3giQihJQhF-UFZhUdB-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009328860236-e0d7ts296oh66h6st0jbh0no7fm5lnbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
